@@ -1,6 +1,14 @@
 # redVelvet
 
-<details><summary>#recipe </summary>
+<details><summary># recipe </summary>
+============
+added in git
+============
+added in vsc
+============
+</details>
+
+
 | ingredients | quantity |
 |:---|:---:|
 | `flour`  | 1 cup  |
@@ -10,17 +18,18 @@
 
 
 
->1
->2
->3
->4
+# Heading 1
+## Heading 2
+###Heading 3
+**Bold**
+*Italic*
+~~This was mistaken text Strikethrough~~
+> This is a quote
 
-============
-added in git
-============
-added in vsc
-============
+
+
  Visit https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-</details>
+
+This file will be saved a .md file.
 
 
