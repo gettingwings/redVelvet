@@ -2,6 +2,12 @@
 
 
 ### recipe ###
+| ingredients | quantity |
+|-------------|----------|
+| flour  | 1 cup  |
+| sugar | 1 cup |
+|---------|
+
 
 >1
 >2
