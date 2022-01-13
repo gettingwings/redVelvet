@@ -19,12 +19,20 @@ added in vsc
 
 
 # Heading 1
+---
 ## Heading 2
-###Heading 3
+---
+### Heading 3
+
 **Bold**
+---
 *Italic*
+---
 ~~This was mistaken text Strikethrough~~
+---
 > This is a quote
+---
+
 
 
 
